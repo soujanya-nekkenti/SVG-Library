@@ -1,12 +1,8 @@
 # Build an SVG Library with Javascript
 
-## Status
-
-**Draft**
-
 ## Overview
 
-This project is design to Build an SVG Library with Javascript
+This project is design to Build a SVG Library with Javascript
 
 ## Installation
 
